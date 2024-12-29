@@ -55,12 +55,12 @@ By the end of this guide, you should:
 
 **Documentation:**
 
-Google AI Studio: [https://ai.google.dev/gemini-api/docs/ai-studio-quickstart]
-Gemini API: [https://ai.google.dev/]
+Google AI Studio: [https://ai.google.dev/gemini-api/docs/ai-studio-quickstart]  
+Gemini API: [https://ai.google.dev/]  
 google-generativeai library: [https://pypi.org/project/google-generativeai/]
 
 **Learning Materials:**
-Gemini Prompt Engineering Guide: [https://ai.google.dev/gemini-api/docs/prompting-intro]
+Gemini Prompt Engineering Guide: [https://ai.google.dev/gemini-api/docs/prompting-intro]  
 Imagen3: [https://ai.google.dev/gemini-api/docs/imagen]
 
 **Helpful Tips**
