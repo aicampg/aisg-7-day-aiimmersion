@@ -18,7 +18,15 @@
   idx = {
     # Search for the extensions you want on https://open-vsx.org/ and use "publisher.id"
     extensions = [
-      # "vscodevim.vim"
+      "ericsia.pythonsnippets3"
+      "ms-toolsai.jupter"
+      "ms-python.debugpy"
+      "ms-python.python"
+      "ms-toolsai.jupyter"
+      "ms-toolsai.jupyter-keymap"
+      "ms-toolsai.jupyter-renderers"
+      "ms-toolsai.vscode-jupyter-cell-tags"
+      "ms-toolsai.vscode-jupyter-slideshow"
     ];
 
     # Enable previews
