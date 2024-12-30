@@ -1,3 +1,5 @@
 google-generativeai
 python-dotenv
 httpx
+pillow
+Ipython
