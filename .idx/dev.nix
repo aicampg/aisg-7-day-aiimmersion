@@ -27,6 +27,7 @@
       "ms-toolsai.jupyter-renderers"
       "ms-toolsai.vscode-jupyter-cell-tags"
       "ms-toolsai.vscode-jupyter-slideshow"
+      "saoudrizwan.claude-dev"
     ];
 
     # Enable previews
