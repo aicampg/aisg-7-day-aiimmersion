@@ -1,0 +1,4 @@
+llama-index-core
+llama-index-llms-ollama
+llama-index-readers-file
+llama-index-embeddings-ollama
