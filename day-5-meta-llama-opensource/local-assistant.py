@@ -32,11 +32,11 @@ logging.info(f"Loaded {len(documents)} documents.")
 # 2. Setup Ollama LLM
 # we want the embeddings to synthesize document info!
 logging.info("Setting up Ollama LLM...")
-Settings.llm = Ollama(model="gemma:2b", request_timeout=120.0)
+Settings.llm = Ollama(model="llama3.2", request_timeout=120.0)
 logging.info("Setting up Ollama Embedding...")
 
 ollama_embedding = OllamaEmbedding(
-    model_name="gemma:2b",
+    model_name="llama3.2",
     base_url="http://localhost:11434",
     ollama_additional_kwargs={"mirostat": 0, "request_timeout": 120},
 )
