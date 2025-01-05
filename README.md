@@ -91,7 +91,7 @@ Before starting the course:
 - Best practices
 - Future directions
 
-- Recording
+- [Recording](https://www.youtube.com/watch?v=jT5N_rsekP4)
 
 ## How to Use This Repository
 
